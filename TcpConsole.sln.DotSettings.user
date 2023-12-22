@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fwalksanator_002Fsteamapps_002Fcommon_002FSilica_0020Dedicated_0020Server_002Fml_002FMelonLoader_002Fnet35_002F0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fwalksanator_002Fsteamapps_002Fcommon_002FSilica_0020Dedicated_0020Server_002Fml_002FMelonLoader_002Fnet35_002FMelonLoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fwalksanator_002Fsteamapps_002Fcommon_002FSilica_0020Dedicated_0020Server_002FSilica_005FData_002FManaged_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/walksanator/steamapps/common/Silica Dedicated Server/Silica_Data/Managed/Assembly-CSharp.dll" /&gt;
+  &lt;Assembly Path="/home/walksanator/steamapps/common/Silica Dedicated Server/ml/MelonLoader/net35/0Harmony.dll" /&gt;
+  &lt;Assembly Path="/home/walksanator/steamapps/common/Silica Dedicated Server/ml/MelonLoader/net35/MelonLoader.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Walksanator/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
